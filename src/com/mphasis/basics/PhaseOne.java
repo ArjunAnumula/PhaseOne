@@ -106,6 +106,7 @@ public class PhaseOne {
 				break;
 
 			case 5:
+				System.out.println("Application Closed.");
 				System.exit(0);
 				break;
 			default:
